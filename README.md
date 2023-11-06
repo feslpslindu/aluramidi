@@ -1,2 +1,2 @@
-# aluramidi
-curso alura
+# Aluramidi
+Curso Alura JavaScript
